@@ -1,3 +1,3 @@
-# C_datastructures
+# Salt
 
-This repository is a library that includes common c datastructures
+Salt is a full stack frameowrk written in C
