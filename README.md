@@ -1,6 +1,6 @@
 # Salt
 
-##Salt is a full stack framework written in C
+## Salt is a full stack framework written in C
 
 ### Build something that users want - SALT
 The goal of the framework is to design applications based on user stories
