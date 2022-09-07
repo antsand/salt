@@ -13,4 +13,35 @@ The technical goal is to optimize the framework for:
 
 ### Installation 
 
+### Folder Structure
+.
+├── ACL
+├── assets
+│   └── img
+├── HTTP
+├── Interpreter
+│   ├── crafting_interpreters
+│   │   └── scanning
+│   │       ├── a.out
+│   │       ├── lex_main
+│   │       ├── lex.yy.c
+│   │       ├── lines.l
+│   │       ├── main
+│   │       └── scanning.c
+│   └── main.c
+├── LICENSE
+├── Makefile
+├── MVC
+│   ├── Controller
+│   ├── Model
+│   ├── Router
+│   └── View
+│       └── Engine
+│           ├── Amps
+│           │   └── README.md
+│           ├── Mdown
+│           └── Zap
+│               └── README.md
+├── README.md
+└── Session
 
